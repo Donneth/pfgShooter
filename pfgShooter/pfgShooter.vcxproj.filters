@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\Downloads\olcSoundWaveEngine-main\olcSoundWaveEngine-main\source\olcSoundWaveEngine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="olcPixelGameEngine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="olcPGEX_PopUpMenu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="gfx\bEnemy1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="gfx\BearPlayer.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="gfx\kibble.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="gfx\kibble+.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="gfx\explosion.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="gfx\RetroMenu.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="gfx\background.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="gfx\upgrade_01.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="gfx\tags_silver.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="gfx\Pit.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="gfx\tags_gold.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="gfx\Pit_Boss.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="gfx\upgrade_02.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="gfx\kibble1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="AsheTheme.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="woof.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="pop_01.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="pop_02.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Fart_0.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Fart_1.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Fart_2.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Fart_3.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Fart_4.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="death_01.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="POWERUP.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="POWERDOWN.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="death_02.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Game_Over_01.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="death_03.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="shit_empty.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+  </ItemGroup>
+</Project>
